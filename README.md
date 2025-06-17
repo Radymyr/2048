@@ -1,6 +1,6 @@
 # 2048 Game
 
-![Screenshot](images/preview/reference.png)
+![Screenshot](src/images/preview/reference.png)
 
 A classic 2048 game implementation with a modern twist.
 
