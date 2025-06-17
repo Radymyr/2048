@@ -70,7 +70,7 @@ If you lose, a "Lose" message prompts you to restart.
 Click "Restart" to reset the game.
 Score
 Your score increases with each merge. Check the score display at the top of the screen.
-🎮 **Play Now**: [Click Here](https://radymyr.github.io/2048/) 🎮
+# 🎮 **Play Now**: [Click Here](https://radymyr.github.io/2048/) 🎮
 
 # Contributing
 Contributions are welcome! To contribute:
