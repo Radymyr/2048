@@ -1,6 +1,6 @@
 # 2048 Game
 
-(images/preview/reference.png)
+![Screenshot](images/preview/reference.png)
 
 A classic 2048 game implementation with a modern twist.
 
@@ -83,7 +83,7 @@ Please ensure your code follows the project's style guidelines and passes all te
 License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute it as per the license terms.
 
-Contact
-GitHub: Radymyr
-Email: loboda.radimir@gmail.com
-LinkedIn: https://www.linkedin.com/in/radymyr-loboda-b4020417b/
+* Contact
+* GitHub: Radymyr
+* Email: loboda.radimir@gmail.com
+* LinkedIn: https://www.linkedin.com/in/radymyr-loboda-b4020417b/

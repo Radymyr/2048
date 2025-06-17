@@ -73,16 +73,16 @@ class Game {
       for (let col = 0; col < this.size; col++) {
         // eslint-disable-next-line max-len
         if (
-          col < this.size - 1 &&
-          this.initialState[row][col] === this.initialState[row][col + 1]
+          col < this.size - 1
+          && this.initialState[row][col] === this.initialState[row][col + 1]
         ) {
           return;
         }
 
         // eslint-disable-next-line max-len
         if (
-          row < this.size - 1 &&
-          this.initialState[row][col] === this.initialState[row + 1][col]
+          row < this.size - 1
+          && this.initialState[row][col] === this.initialState[row + 1][col]
         ) {
           return;
         }
